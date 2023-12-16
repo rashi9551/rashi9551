@@ -75,7 +75,7 @@
     <img align="center" alt="LinkdeIN" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
    <a target="_blank" href="https://www.instagram.com/_fotofreak_/">
-  <img align="center" alt="Instagram" width="auto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="center" alt="Instagram" width="auto" src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/muhd_rashi__/)" />
    </a>
    <a target="_blank" href="mailto:altob282@gmail.com">
   <img align="center" alt="Gmail" width="92px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
