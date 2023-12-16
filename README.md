@@ -24,10 +24,8 @@
    <br>
    <h4 align="center"> 📚 Frameworks, Platforms and Libraries</h4>
    <p align="center">
-     <img align="center" alt="MERN" width="auto" src="https://img.shields.io/badge/React%2302569B.svg?style=for-the-badge&logo=React&logoColor=white" />
      <img align="center" alt="bootstrap" width="auto" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
      <img align="center" alt="jquery" width="auto" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-   <img align="center" alt="anaconda" width="auto" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
    
    
   
