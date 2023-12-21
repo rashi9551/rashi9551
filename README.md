@@ -71,12 +71,10 @@
 <br>
 <h4 align="center"> Connect with me</h4>
 <p align="center">
-   <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
+   <a target="_blank" href="https://www.linkedin.com/in/muhammed-rashid-t-7583a2289/">
     <img align="center" alt="LinkdeIN" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
-   <a target="_blank" href="#">
-  <img align="center" alt="Instagram" width="auto" src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/muhd_rashi__/)" />
-   </a>
+   
    <a target="_blank" href="#">
   <img align="center" alt="Gmail" width="92px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
