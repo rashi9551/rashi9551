@@ -74,10 +74,10 @@
    <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
     <img align="center" alt="LinkdeIN" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
-   <a target="_blank" href="https://www.instagram.com/_fotofreak_/">
+   <a target="_blank" href="#">
   <img align="center" alt="Instagram" width="auto" src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/muhd_rashi__/)" />
    </a>
-   <a target="_blank" href="mailto:altob282@gmail.com">
+   <a target="_blank" href="#">
   <img align="center" alt="Gmail" width="92px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
 </p>
@@ -88,8 +88,8 @@
  <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=alto-b&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/alto-b) <br>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=alto-b&theme=material-palenight)](https://github.com/alto-b)
+[![](https://github-readme-stats.vercel.app/api?username=alto-b&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Rashi) <br>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=alto-b&theme=material-palenight)](https://github.com/Rashi)
 </div>
 
 ----
