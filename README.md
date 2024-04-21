@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @MuhammedRashid
 - 👀 I’m interested in Coding,Reading Articles,Problem Solving
 - 🌱 I’m currently learning BBA at Mgu & self studiying lots  of things
-- 📫 How to reach me asifasifpsps@gmail.com , _asif_mohmd@twitter.com
+- 📫 How to reach me rashidroz1361@gmail.com ,https://www.linkedin.com/in/muhammedrashidt/
 --->
 
 <!---
@@ -18,7 +18,7 @@ MERN Stack Developer
 I've been learning coding for 3 years. I started with C language. then java , C++ , Git, Java Script then I started MERNSTACK Journey . I studied Node js , React js , Mongo db, HandleBars etc..
 
 * 🌍  I'm based in Kerala
-* ✉️  You can contact me at [asifasifpsps@gmail.com](mailto:rashidroz1361@gmail.com)
+* ✉️  You can contact me at [rashidroz1361@gmail.com@gmail.com](mailto:rashidroz1361@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Web Projects
 
