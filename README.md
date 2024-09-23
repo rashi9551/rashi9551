@@ -1,67 +1,98 @@
-- <!--
-- 👋 Hi, I’m @MuhammedRashid
-- 👀 I’m interested in Coding,Reading Articles,Problem Solving
-- 🌱 I’m currently learning BBA at Mgu & self studiying lots  of things
-- 📫 How to reach me rashidroz1361@gmail.com ,https://www.linkedin.com/in/muhammedrashidt/
---->
 
-<!---
-asif-mohmd/asif-mohmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Muhammed Rashid Here👋
-================================
+ <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="width: 100%;">
 
-MERN Stack Developer
---------------------------------
+<h1 align="center">Hi 👋, I'm Rashid</h1>
+<h3 align="center">Self-taught full-stack developer</h3>
 
-I've been learning coding for 3 years. I started with C language. then java , C++ , Git, Java Script then I started MERNSTACK Journey . I studied Node js , React js , Mongo db, HandleBars etc..
+<div align="center">  
+        🌱 I’m currently learning about DataStructures <br>
+        👯 I’m looking to collaborate with other Developers <br>
+        💬 Ask me about MERN, I will try to answer <br>
+        📫 How to reach me: email: rashidroz1361@gmail.com <br>
+</div>
 
-* 🌍  I'm based in Kerala
-* ✉️  You can contact me at [rashidroz1361@gmail.com@gmail.com](mailto:rashidroz1361@gmail.com)
-* 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on Web Projects
-
-
-[![An image of @rashi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rashi9551)](https://holopin.io/@rashi9551)
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" style="width: 300px;margin-right: 60px" alt="">
+    <img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 300px;" alt="">
+</div>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/muhammedrashidt/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammedrashidt/" target="_blank" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/https://www.instagram.com/muhd_rashi__/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhd_rashi__/" target="_blank" height="30" width="40" />
+    </a>
+    <a href="https://leetcode.com/u/muhd_rashi__/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/muhd_rashi__/" target="_blank" height="30" width="40" />
+    </a>
 </p>
 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+    <p align="center"> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" /> </a> 
+        <span style="margin-right: 20px;"></span>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> </a> 
+        <span style="margin-right: 20px;"></span>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        </a>
+        <span style="margin-right: 20px;"></span>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a> 
+        <span style="margin-right: 20px;"></span>  
+        <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+        </a>
+        <span style="margin-right: 20px;"></span>
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+        </a>   
+     <br><br>
+        <span style="margin-right: 20px;"></span>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+        </a>      
+        <span style="margin-right: 20px;"></span>      
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a> 
+        <span style="margin-right: 20px;"></span>      
+        <a href="#" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
+        </a>
+        <span style="margin-right: 20px;"></span> 
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" /> </a>                     
+        <span style="margin-right: 20px;"></span>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> 
+        <br><br>
+     <span style="margin-right: 20px;"></span>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /> </a>
+        <span style="margin-right: 20px;"></span>
+        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" /> </a>         
+        <span style="margin-right: 20px;"></span>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+        </a>
+        <span style="margin-right: 20px;"></span> 
+        <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="chartjs" /> </a>          
+        <span style="margin-right: 20px;"></span>      
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        </a>
+        <span style="margin-right: 20px;"></span>        
+        <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /> </a> 
+        <span style="margin-right: 20px;"></span>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a> 
+        <span style="margin-right: 20px;"></span>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> 
+    </p>  
+</p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashi9551&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt=""><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=rashi9551&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashi9551&theme=dark&hide_border=true" alt="">
+</div>
+###
 
-### Socials
+<img src="https://raw.githubusercontent.com/rashi9551/rashi9551/output/snake.svg" alt="Snake animation" />
 
-<p align="left"> <a href="https://discord.com/users/rashi#4105" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/profile.php?id=100005768294707" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://github.com/rashi9551" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/muhd_rashi__/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://medium.com/@rashidroz1361" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/13576338/as-if" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/rashi9551"><img src="https://github-readme-stats.vercel.app/api?username=rashi9551&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="muhammedRashi GitHub stats" /></a>
-
-
-
-<a href="https://github.com/rashi9551" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashi9551&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/MuhammedRashi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+###
